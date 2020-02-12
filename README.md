@@ -1,4 +1,4 @@
-# pybot
+# pybot n00b
 
 ## Automated tests for my dummy eLearning web app [Hello World](https://shafin-elearning.herokuapp.com/)
 
