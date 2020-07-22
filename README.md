@@ -1,5 +1,5 @@
 # pybot n00b
-![Introducing pybot n00b](https://github.com/shafin071/pybot.n00b/blob/master/assets/pybot2.gif)
+<img src="https://github.com/shafin071/pybot.n00b/blob/master/assets/pybot2.gif" width="300" height="260">
 
 ## Situation
 This project is based on my dummy eLearning web app [Hello World](https://shafin-elearning.herokuapp.com/) project. The website needed testing to ensure it's functioning as expected
@@ -32,7 +32,8 @@ Wrote a script that performs automated testing on my website and emails me the t
 
 ## Result:
 Watch Demo:
-[![pybot_n00b demo](https://github.com/shafin071/pybot.n00b/blob/master/assets/vid_snapshot.JPG)](https://www.youtube.com/watch?v=aqrQ4hAe17Q&feature=youtu.be)
+
+[<img src="https://github.com/shafin071/pybot.n00b/blob/master/assets/vid_snapshot.JPG" width="300" height="260">](https://www.youtube.com/watch?v=aqrQ4hAe17Q&feature=youtu.be)
 
 ## Resources used for this project:
 * python v3
