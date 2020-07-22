@@ -33,7 +33,7 @@ Wrote a script that performs automated testing on my website and emails me the t
 ## Result:
 Watch Demo:
 
-[<img src="https://github.com/shafin071/pybot.n00b/blob/master/assets/vid_snapshot.JPG" width="380" height="320">](https://www.youtube.com/watch?v=aqrQ4hAe17Q&feature=youtu.be)
+[<img src="https://github.com/shafin071/pybot.n00b/blob/master/assets/vid_snapshot.JPG" width="400" height="320">](https://www.youtube.com/watch?v=aqrQ4hAe17Q&feature=youtu.be)
 
 ## Resources used for this project:
 * python v3
